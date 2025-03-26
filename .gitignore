@@ -1,0 +1,42 @@
+## Build artifacts
+bin/
+obj/
+
+## Rider IDE
+.idea/
+*.sln.iml
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Auto-generated files
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+
+## DotNet publish folder and zip file
+publish/
+publish.zip
+
+## Others
+*.DS_Store
+*.swp
+*.bak
+*.tmp
+~$*
+
+## ASP.NET Core
+wwwroot/
+.env
+.env.*
+
+## NuGet packages (optional if you don't want to store the cache)
+# *.nupkg
+# packages/
+
+## Visual Studio Code settings (if used)
+.vscode/
